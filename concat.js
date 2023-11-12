@@ -3,3 +3,6 @@ const b = [3, 4, 5];
 const c = a.concat(b);
 
 console.log(c);
+
+
+
